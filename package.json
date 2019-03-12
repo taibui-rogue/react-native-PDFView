@@ -1,6 +1,6 @@
 {
-  "name": "react-native-view-pdf",
-  "version": "0.8.0",
+  "name": "rn-view-pdf",
+  "version": "0.7.1",
   "description": "React native Pdf viewer implementation",
   "main": "src/index.js",
   "scripts": {
@@ -14,12 +14,12 @@
   "keywords": [
     "react-native react-component pdf viewer view android ios pdf"
   ],
-  "author": "Maksym Rusynyk <m.rusynyk@gmail.com>, Sander Frenken <sander.frenken@hotmail.com>",
+  "author": "Tai Bui <taibui.rogue@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
+    "prop-types": "15.*",
     "react": ">=16.6.2",
-    "react-native": ">=0.57",
-    "prop-types": "15.*"
+    "react-native": ">=0.57"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
@@ -61,10 +61,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rumax/react-native-PDFView.git"
+    "url": "git+https://github.com/taibui-rogue/react-native-PDFView.git"
   },
   "bugs": {
-    "url": "https://github.com/rumax/react-native-PDFView/issues"
+    "url": "https://github.com/taibui-rogue/react-native-PDFView/issues"
   },
-  "homepage": "https://github.com/rumax/react-native-PDFView#readme"
+  "homepage": "https://github.com/taibui-rogue/react-native-PDFView#readme"
 }
